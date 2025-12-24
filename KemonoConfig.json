@@ -2,6 +2,9 @@
 	"name": "Kemono",
 	"description": "Kemono is a platform allowing users to view membership only content.",
 	"author": "Nrwh1",
+	"platformUrl": "https://kemono.cr",
+	"sourceUrl": "https://github.com/Nrwh1/grayjay-plugin-kemono/raw/main/KemonoConfig.json",
+	"repositoryUrl": "https://github.com/Nrwh1/grayjay-plugin-kemono",
 
 	"scriptUrl": "./KemonoScript.js",
 	"version": 1,
@@ -26,5 +29,6 @@
 
 	"supportedClaimTypes": [12]
 }
+
 
 
