@@ -17,8 +17,6 @@
 	"allowUrls": [
 		"everywhere"
 	],
-	"settings": [
-	],
 
     "authentication": {
 		"loginUrl": "https://kemono.cr/authentication/login",
@@ -28,4 +26,5 @@
 
 	"supportedClaimTypes": [12]
 }
+
 
